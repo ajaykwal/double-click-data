@@ -1,0 +1,26 @@
+{
+    "devices" : [
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "Android_6_0", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon","MobileDevice" : "Samsung Galaxy" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "Android_6_0", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon", "MobileDevice" : "Google Pixel" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "Android_6_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T", "MobileDevice" : "Samsung" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon" , "MobileDevice" : "iPhone7"},
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_1", "DeviceCategory":"Smartphone",  "MobileCapability" : "Game", "MobileCarrier" : "AT&T", "MobileDevice" : "iPhone8" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_4", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon" , "MobileDevice" : "iphoneX"},
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_9_1", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T", "MobileDevice" : "iPhone" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501014",    "OS" : "Windows",  "OSVersion" : "Windows 10", "DeviceCategory":"Notebook PC",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T","MobileDevice" : "" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Windows",  "OSVersion" : "Windows 8", "DeviceCategory":"Notebook PC",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon" ,"MobileDevice" : ""},
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501014",    "OS" : "Chrome",  "OSVersion" : "Windows 10", "DeviceCategory":"Notebook PC",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T","MobileDevice" : "" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501021",    "OS" : "Apple MacOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Notebook Mac",  "MobileCapability" : "Apps", "MobileCarrier" : "" ,"MobileDevice" : ""},
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501021",    "OS" : "Apple MacOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Notebook Mac",  "MobileCapability" : "Apps", "MobileCarrier" : "", "MobileDevice" : "" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501021",    "OS" : "Apple MacOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Notebook Mac",  "MobileCapability" : "Apps", "MobileCarrier" : "", "MobileDevice" : "" },
+        { "BrowserId":"500073", "Browser" : "Internet Explorer", "OSId" : "501030",    "OS" : "Windows",  "OSVersion" : "Windows NT", "DeviceCategory":"Laptop",  "MobileCapability" : "web", "MobileCarrier" : "","MobileDevice" : "" },
+        { "BrowserId":"500073", "Browser" : "Internet Explorer", "OSId" : "501030",    "OS" : "Windows",  "OSVersion" : "Windows 10", "DeviceCategory":"Surface",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T","MobileDevice" : "Samsung NOte" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T", "MobileDevice" : "Samsung Note" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon", "MobileDevice" : "iPad" },
+        { "BrowserId":"500072", "Browser" : "Google Chrome", "OSId" : "501013",    "OS" : "Android",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T" , "MobileDevice" : "verizon"},
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon","MobileDevice" : "iPad" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "AT&T", "MobileDevice" : "iPad" },
+        { "BrowserId":"500070", "Browser" : "Safari", "OSId" : "501020",    "OS" : "Apple iOS",  "OSVersion" : "iOS_10_3", "DeviceCategory":"Smartphone",  "MobileCapability" : "Apps", "MobileCarrier" : "verizon", "MobileDevice" : "iPhone" }
+
+    ]
+}
