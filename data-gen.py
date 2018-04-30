@@ -1,7 +1,7 @@
 import argparse
 import random
 import json
-import ImpressionRecord as Impr
+import impressionrecord as impr
 
 
 if __name__== "__main__":
@@ -50,6 +50,6 @@ if __name__== "__main__":
         with open(filename,'w',1) as outfile:
             outfile.write(HEADER)
             for x in range(1,int(options.records)):
-                impression=Impr.ImpressionRecord(location, device, options.startdate, options.enddate, record_layout)
+                impression=impr.ImpressionRecord(location, device, options.startdate, options.enddate, record_layout)
                 outfile.write(impression.getrecord())
 
