@@ -1,1 +1,1 @@
-# double-click-data
+# Generate Doubleclick ad impression data for testing 
