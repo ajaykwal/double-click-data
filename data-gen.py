@@ -3,6 +3,16 @@ import random
 import json
 import impressionrecord as impr
 
+'''
+
+This module generates files for doubclick impression data 
+Header Row
+Command seperated value
+loc.json is for location values
+dev.json is for devices values
+
+'''
+
 
 if __name__== "__main__":
     LOCATION_FILE = 'loc.json'
